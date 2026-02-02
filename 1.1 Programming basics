@@ -1,0 +1,16 @@
+A first program
+A simple C++ program appears below.
+
+A program starts in main(), executing the statements within main's braces { }, one at a time.
+Each statement typically appears alone on a line and ends with a semicolon, as English sentences end with a period.
+The int wage statement creates an integer variable named wage. The wage = 20 statement assigns wage with 20.
+The cout statements output various values.
+The return 0 statement ends the program (the 0 tells the operating system the program ended without error).
+Code is the textual representation of a program, as seen below. Many code editors color words, as below, to assist humans to understand various words' roles.
+
+
+The following code (explained later) at the top of a file enables the program to get input and put output:
+
+```#include <iostream>
+using namespace std; 
+```

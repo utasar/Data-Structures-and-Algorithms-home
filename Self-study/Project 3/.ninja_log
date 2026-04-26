@@ -1,0 +1,15 @@
+# ninja log v6
+8	2196	7986561895595771	CMakeFiles/Project_3.dir/main.cpp.obj	7528812d2221839
+211	1332	7988425121275667	CMakeFiles/Project_3.dir/SinglyLinkedList.cpp.obj	7d7a4e8cbe6f4735
+2213	2889	7986561917636178	Project_3.exe	f76163f595c2e582
+13	1148	7988428253517502	build.ninja	136b31f7f7a4227c
+13	1148	7988428253472638	C:/Users/achar/CLionProjects/Project-3/cmake-build-debug/cmake_install.cmake	136b31f7f7a4227c
+16	1200	7988428595846964	CMakeFiles/Project_3.dir/SinglyLinkedList.cpp.obj	7d7a4e8cbe6f4735
+4	453	7988429372941495	CMakeFiles/Project_3.dir/main.cpp.obj	ea3910f16e025d2
+453	858	7988429377440098	Project_3.exe	f76163f595c2e582
+208	1945	7988755411397743	CMakeFiles/Project_3.dir/main.cpp.obj	ea3910f16e025d2
+1945	2677	7988755428757237	Project_3.exe	f76163f595c2e582
+284	2012	7988762156083441	CMakeFiles/Project_3.dir/SinglyLinkedList.cpp.obj	7d7a4e8cbe6f4735
+2013	2784	7988762173375965	Project_3.exe	f76163f595c2e582
+5	932	7988766039852428	CMakeFiles/Project_3.dir/SinglyLinkedList.cpp.obj	7d7a4e8cbe6f4735
+933	1089	7988766049135641	Project_3.exe	f76163f595c2e582
